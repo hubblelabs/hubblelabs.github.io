@@ -65,9 +65,3 @@ ul {
     margin-right: 0;
     padding-left: 40px;
 }
-
-@media (max-width: 600px) {
-    body {
-        font-size: 30px
-    }
-}
