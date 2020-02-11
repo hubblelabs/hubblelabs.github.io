@@ -1,5 +1,11 @@
 {
   "applinks": {
-    "apps": ["283NVQKXWU.com.kuklis.Hubble”]
+    "apps": [],
+    "details": [
+      {
+        "appID": "283NVQKXWU.com.kuklis.Hubble",
+        "paths": ["/invite/*"]
+      }
+    ]
   }
 }
