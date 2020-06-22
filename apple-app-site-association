@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "283NVQKXWU.com.kuklis.Hubble",
-        "paths": ["/invite/*"]
+        "paths": ["/invite/*", "/reset-password/*"]
       }
     ]
   }
