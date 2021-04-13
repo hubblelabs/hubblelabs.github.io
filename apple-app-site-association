@@ -8,7 +8,7 @@
       },
       {
         "appID": "283NVQKXWU.com.kuklis.Hubble.debug",
-        "paths": ["/debug/*"]
+        "paths": ["/invite/*", "/reset-password/*"]
       }
     ]
   }
