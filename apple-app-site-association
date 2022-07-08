@@ -3,11 +3,11 @@
     "apps": [],
     "details": [
       {
-        "appID": "283NVQKXWU.com.kuklis.Hubble",
+        "appID": "29RWPRR84Q.com.kuklis.Hubble.ios",
         "paths": ["/invites/*", "/reset-password/*"]
       },
       {
-        "appID": "283NVQKXWU.com.kuklis.Hubble.debug",
+        "appID": "29RWPRR84Q.com.kuklis.Hubble.ios.debug",
         "paths": ["/debug/*"]
       }
     ]
